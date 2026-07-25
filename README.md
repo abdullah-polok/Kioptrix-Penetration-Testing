@@ -10,20 +10,19 @@ These labs were completed in an intentionally vulnerable environment for educati
 
 A complete penetration testing report covering reconnaissance, scanning, enumeration, vulnerability identification, exploitation, and gaining root access.
 
-📄 [View Kioptrix Level 1 Report](./Kioptrix-Level-1/Kioptrix-Level-1-Report.pdf)
+📄 [View Kioptrix Level 1 Report](https://github.com/abdullah-polok/Kioptrix-Penetration-Testing/blob/main/Kioptrix_Level1_Pentest_Report.pdf)
 
 ### Kioptrix Level 2
 
 A complete penetration testing report covering reconnaissance, scanning and enumeration, SQL injection, OS command injection, reverse shell, local enumeration, and privilege escalation.
 
-📄 [View Kioptrix Level 2 Report](./Kioptrix-Level-2/Kioptrix-Level-2-Report.pdf)
+📄 [View Kioptrix Level 2 Report](https://github.com/abdullah-polok/Kioptrix-Penetration-Testing/blob/main/Kioptrix_Level2_Pentest_Report.pdf)
 
 ## Tools Used
 
 - Nmap
 - SearchSploit
 - Metasploit
-- Burp Suite
 - Netcat
 - Linux command-line tools
 
